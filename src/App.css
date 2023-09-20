@@ -72,6 +72,7 @@ span {
 .house-photo {
   width: 100%;
   height: 200px;
+  border-radius: 3px;
 }
 .house-props > h3 {
   font-size: 18px;
